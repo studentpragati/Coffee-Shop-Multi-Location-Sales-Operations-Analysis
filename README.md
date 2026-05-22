@@ -1,4 +1,4 @@
-## Coffee Shop Sales Analysis ☕
+## Coffee Shop Multi-Location Sales & Operations Analysis☕
 This project is a comprehensive analysis of a coffee shop's sales data, presented in an interactive Excel dashboard. The dashboard provides key insights into sales performance, customer trends, and product popularity, helping the business make data-driven decisions.
 
 ## Project Goal:
