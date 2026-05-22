@@ -1,9 +1,9 @@
 ## Coffee Shop Sales Analysis ☕
-
 This project is a comprehensive analysis of a coffee shop's sales data, presented in an interactive Excel dashboard. The dashboard provides key insights into sales performance, customer trends, and product popularity, helping the business make data-driven decisions.
+
 ## Project Goal:
 The primary objective was to analyze historical sales data to identify trends, measure performance, and provide actionable insights to improve sales and operational efficiency.
-ii
+
 ## Dataset:
 The analysis is based on a dataset containing detailed sales records, including:
  * Order_ID
@@ -40,6 +40,10 @@ Barista Espresso is the top revenue product followed by Brewed Black Tea
 Large and Regular sizes dominate — small size has minimal share
 Weekday patterns vary by location, useful for staff scheduling
 
-## Impact: Enables store managers to optimize staffing during peak hours, prioritize top SKUs in inventory, and tailor promotions by location and day
+## Impact: 
+Enables store managers to optimize staffing during peak hours, prioritize top SKUs in inventory, and tailor promotions by location and day
+
+## Dashboard Output
+Single-page Excel dashboard with Month/Day slicers, hourly order line chart, category sales bar chart, order size pie chart, store-wise footfall bar chart, top 5 products bar chart, and weekday ordering grouped bar chart.
 
 
